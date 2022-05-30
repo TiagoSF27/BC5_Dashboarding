@@ -4,7 +4,7 @@ Dash app developed for the course Business Cases for DS
 Our group was tasked with developing a dashboard for our client Investments4Some.
 This file will provide some information on what to expect out of the dashboard.
 
-Below are some pictures showing what the dashboard looks like.
+Below are some pictures showing what the full dashboard looks like.
 
 ![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/full_dashboard_1.png)
 ![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/full_dashboard_2.png)
@@ -18,3 +18,6 @@ Below is the cryptocurrency chart. It displays information of the cryptocurrency
 
 The chart is also capable of showing information for multiple indices as well, as can be seen below:
 ![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/multiple_indices_2.png)
+
+And also, the RangeSliders can filter the charts by date intervals:
+![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/multiple_indices_3.png)
