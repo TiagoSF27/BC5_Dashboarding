@@ -21,3 +21,10 @@ The chart is also capable of showing information for multiple indices as well, a
 
 And also, the RangeSliders can filter the charts by date intervals:
 ![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/multiple_indices_3.png)
+
+It's worth noting that the tables on the right do have some differences from each other. 
+The cryptocurrency table includes closing price predictions, for instance.
+
+![alt text](https://raw.github.com/TiagoSF27/BC5_Dashboarding/master/Dashboard_Screenshots/crypto_table_predictions.png)
+
+For further inquiries, Group K is at your service.
